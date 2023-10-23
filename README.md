@@ -5,14 +5,14 @@ Welcome to the Tic-Tac-Toe game project! This simple yet engaging game has been 
 ## How to Play
 
 1. Open the `index.html` file in your web browser to launch the game.
-2. Select your opponent - a friend (2-player mode) or the computer (single-player mode).
+2. Select your opponent - a friend (2-player mode)
 3. Players take turns clicking on the grid to place their respective markers - 'X' or 'O'.
 4. The first player to get three of their markers in a row, column, or diagonal wins the game.
 5. If the grid is completely filled, and there is no winner, the game ends in a draw.
 
 ## Features
 
-- **Two Game Modes**: Choose to play against a friend locally or challenge the computer in single-player mode.
+- **Two Game Modes**: Choose to play against a friend locally 
 
 - **Responsive Design**: The game adapts to different screen sizes, making it enjoyable on both desktop and mobile devices.
 
@@ -39,10 +39,10 @@ cd tic-tac-toe-game
 
 ## Game Preview
 
-![Tic-Tac-Toe Game Preview](game-preview.png)
+![Tic-Tac-Toe Game Preview](preview.png)
 
 ## Credits
 
-This project was created by [Your Name]. Feel free to reach out with any questions or suggestions.
+This project was created by  ```Parth chilwerwar aka jaxk```. Feel free to reach out with any questions or suggestions.
 
 Enjoy playing the classic Tic-Tac-Toe game, and may the best strategist win! 🎮✨
