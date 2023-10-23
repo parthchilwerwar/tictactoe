@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tic Tac Toe</title>
+  <link rel="stylesheet" type="text/css" href="style.css" >
+  <link rel="icon" type="image/x-icon"  href="logo3.png" >
+</head>
+<body>
+  <h1>Tic Tac Toe</h1>
+  <p>Game start's with "X" player and <br> second chance is of "O" player so, decide about 1 chance!</p>
+  <div id="board">
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+    <div class="cell" onclick="makeMove(this)"></div>
+  </div>
+  <div id="result">
+    <p id="winner"></p>
+    <button onclick="resetGame()">play again</button>
+  </div>
+  <div class="copyright">
+    <p>copyright ©️ parth . Made with love ❤️</p>
+</div>
+
+  <script src="script.js"></script>
+</body>
+</html>
