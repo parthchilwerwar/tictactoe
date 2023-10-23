@@ -37,10 +37,6 @@ git clone https://github.com/yourusername/tic-tac-toe-game.git
 cd tic-tac-toe-game
 ```
 
-## Game Preview
-
-![Tic-Tac-Toe Game Preview](preview.png)
-
 ## Credits
 
 This project was created by  ```Parth chilwerwar aka jaxk```. Feel free to reach out with any questions or suggestions.
